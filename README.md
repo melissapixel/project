@@ -1,4 +1,4 @@
-# Simple PHP project on Docker.Simple PHP project.
+# Simple PHP project
 
 ### Requirements
 
